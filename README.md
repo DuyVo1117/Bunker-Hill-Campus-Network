@@ -17,7 +17,6 @@ BHCC Campus network is the program that displays the shortest path for the campu
 
   1. You need Eclipse IDE with JavaFX to be able to run this program.
      Follow the instruction in this [link](https://mynotes.cysun.org/notes/view/3) to install.
-
   2. Clone this repository and import it into Eclipse
 
 ### Run
