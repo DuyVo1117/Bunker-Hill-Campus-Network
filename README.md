@@ -1,10 +1,20 @@
-# Foobar
+# BHCC Campus Network
 
-Foobar is a Python library for dealing with word pluralization.
+## Introduction
+
+BHCC Campus network is the program that displays the shortest path for the campus using JavaFX
+
+## Features
+
+  1. Allow user enter starting location of the campus
+  2. Allow user enter ending location of the campus
+  3. Display the shortest path from starting to ending point by drawing the red path
+  4. Program will display an error message if the user enters a location that does not exist on campus network
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+You need Eclipse IDE with JavaFX to be able to run this program.
+Follow the instruction in this [link](https://mynotes.cysun.org/notes/view/3) to install.
 
 ```bash
 pip install foobar
