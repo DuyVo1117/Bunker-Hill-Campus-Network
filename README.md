@@ -3,7 +3,7 @@
 ## Introduction
 
 BHCC Campus network is the program that displays the shortest path for the campus using JavaFX
-<img src="image/Campus Network.png" >
+<img src="image/Campus Network.png" width = 50% >
 
 ## Features
 
